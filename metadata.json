@@ -1,0 +1,6 @@
+{
+  "name": "Plantask",
+  "description": "App para gestão e organização de plantões de UTI, transferências e tarefas hospitalares.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
